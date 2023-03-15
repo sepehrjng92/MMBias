@@ -11,7 +11,9 @@ The official repository for paper [" Multi-Modal Bias: Introducing a Framework f
 
 <!-- Citation -->
 ## Citation
+If you use our any part of our dataset or code, please cite our paper(https://example.com).
 
+  ```sh
 @inproceedings{JiangJanghorbaniDeMeloAhn2020SCALOR,
   title={SCALOR: Generative World Models with Scalable Object Representations},
   author={Jindong Jiang and Sepehr Janghorbani and Gerard {de Melo} and Sungjin Ahn},
@@ -21,6 +23,7 @@ The official repository for paper [" Multi-Modal Bias: Introducing a Framework f
   location = {Addis Ababa, Ethiopia},
   url = {https://openreview.net/pdf?id=SJxrKgStDH},
 }
+```
 
 <!-- GETTING STARTED -->
 ## Getting Started
