@@ -1,0 +1,1 @@
+The official repository for paper "Multi-Modal Bias: Introducing a Framework for Stereotypical Bias Assessment beyond Gender and Race in Vision–Language Models" by Sepehr Janghorbani, Gerard de Melo; published at the European Chapter of the Association for Computational Linguistics (EACL) 2023.
