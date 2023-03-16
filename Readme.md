@@ -5,7 +5,9 @@
 
 The official repository for paper [" Multi-Modal Bias: Introducing a Framework for Stereotypical Bias Assessment beyond Gender and Race in Vision–Language Models"](https://example.com) by [Sepehr Janghorbani](https://www.janghorbani.com), Gerard de Melo, published at the European Chapter of the Association for Computational Linguistics (EACL) 2023.
 
+<p align="center">
 <img width="639" alt="Screen Shot 2023-03-15 at 1 51 41 PM" src="https://user-images.githubusercontent.com/40415106/225670883-da55f115-8086-4a2e-9347-5b5c6b9daf6b.png">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
