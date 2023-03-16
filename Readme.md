@@ -12,8 +12,12 @@ The official repository for paper [" Multi-Modal Bias: Introducing a Framework f
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Image and textual dataset are found under data.
-
+Image and textual dataset are found under data. To extract images Run the following comand:
+ 
+ ```sh
+ Unzip  <category.zip>
+ ```
+where category is the minority subgroup under study.
 
 <!-- LICENSE -->
 ## License
