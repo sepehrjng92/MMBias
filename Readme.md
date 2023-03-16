@@ -9,8 +9,6 @@ The official repository for paper [" Multi-Modal Bias: Introducing a Framework f
 <img width="1000" alt="Screen Shot 2023-03-15 at 1 51 41 PM" src="https://user-images.githubusercontent.com/40415106/225670883-da55f115-8086-4a2e-9347-5b5c6b9daf6b.png">
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
