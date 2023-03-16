@@ -20,8 +20,6 @@ Image and textual dataset are found under data.
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- Citation -->
 ## Citation
@@ -38,5 +36,7 @@ If you use our any part of our dataset or code, please cite our paper(https://ex
   url = {https://openreview.net/pdf?id=SJxrKgStDH},
 }
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
