@@ -27,7 +27,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- Citation -->
 ## Citation
-If you use our any part of our dataset or code, please cite our paper(https://arxiv.org/abs/2303.12734).
+If you use our any part of our dataset or code, please cite our [paper](https://arxiv.org/abs/2303.12734).
 
   ```sh
 @inproceedings{JiangJanghorbaniDeMeloAhn2020SCALOR,
