@@ -30,14 +30,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 If you use our any part of our dataset or code, please cite our [paper](https://arxiv.org/abs/2303.12734).
 
   ```sh
-@inproceedings{JiangJanghorbaniDeMeloAhn2020SCALOR,
-  title={SCALOR: Generative World Models with Scalable Object Representations},
-  author={Jindong Jiang and Sepehr Janghorbani and Gerard {de Melo} and Sungjin Ahn},
-  booktitle={Proceedings of ICLR 2020},
-  year={2020},
-  publisher = {OpenReview.net},
-  location = {Addis Ababa, Ethiopia},
-  url = {https://openreview.net/pdf?id=SJxrKgStDH},
+@article{janghorbani2023multimodal,
+  title={MultiModal Bias: Introducing a Framework for Stereotypical Bias Assessment beyond Gender and Race in Vision Language Models},
+  author={Janghorbani, Sepehr and de Melo, Gerard},
+  journal={arXiv preprint arXiv:2303.12734},
+  year={2023}
 }
 ```
 
